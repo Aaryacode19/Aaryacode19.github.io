@@ -117,6 +117,7 @@ body header .navigations nav {
 }
 
 #Certificates {
+    display: flex;
     color: azure;
     border: 1px solid azure;
     border-radius: 10px;
